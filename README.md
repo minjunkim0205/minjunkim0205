@@ -10,6 +10,7 @@
 <!-- Hello -->
 <h3 align="left">
     👋 Hi, I'm minjunkim0205
+    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
 </h3>
 <p align="left">
     Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
