@@ -51,8 +51,9 @@ Non
 ## 📖 Blog
 Non
 
-## 🌏 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark)
+## 🌏 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=minjunkim0205&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark">
 
 ---
 꾸준히 성장하는 개발자를 목표로 하고 있는 minjunkim0205 입니다.
