@@ -10,9 +10,9 @@
 <!-- Hello -->
 <h3 align="left">👋 Hi, I'm minjunkim0205</h3>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
-    <br>
     Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
 </p>
 <!-- Algorithm PS -->
 <h2 align="left">🎮 Algorithm PS(With C++)</h2>
