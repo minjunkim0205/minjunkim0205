@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm minjunkim0205
 Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
 
-## 🎮 Algorithm Solved AC (C++)
+## 🎮 Algorithm PS(With C++)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjunkim0205)](https://solved.ac/minjunkim0205) <img src="http://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark"/>
 
 ## ⚡ Skills
