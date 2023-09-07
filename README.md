@@ -1,16 +1,55 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Hi!%20I'm%20minjunkim0205&fontSize=70)
 
-<!--
-**minjunkim0205/minjunkim0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm minjunkim0205
+Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
 
-Here are some ideas to get you started:
+## 🎮 Algorithm Solved AC (C++)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjunkim0205)](https://solved.ac/minjunkim0205) <img src="http://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+<h3 align="center"><b>Languages</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
+<h3 align="center"><b>Frameworks</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+</p>
+
+<h3 align="center"><b>Tools</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white">
+</p>
+
+## 🚀 Career
+|   Period    |                       Career                        |  Role   |
+|:-----------:|:---------------------------------------------------:|:-------:|
+|  2023.02 ~  | Hallym University, Department of Computer Engineing | Student |
+
+## ⛳️ Projects
+<details>
+<summary> <b> Studying Algorithms, PS(2023~) - Solo </b> </summary>
+
+### 🏬 [Solved Ac](https://solved.ac/profile/minjunkim0205)
+- [![Solved.ac mini profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205)](https://solved.ac/profile/minjunkim0205)
+  <img src="https://img.shields.io/badge/C++-00599C?flat-square&logo=c%2B%2B&logoColor=white">
+- 1일 1문제 이상 해결
+</details>
+
+## 📖 Blog
+Non
+
+## 🌏 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark)
+
+---
+꾸준히 성장하는 개발자를 목표로 하고 있는 minjunkim0205 입니다.
