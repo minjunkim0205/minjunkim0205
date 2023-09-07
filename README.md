@@ -31,9 +31,10 @@ Hi, I'm a student who is interested in programming and development from South Ko
 </p>
 
 ## 🚀 Career
-|   Period    |                       Career                        |  Role   |
-|:-----------:|:---------------------------------------------------:|:-------:|
-|  2023.02 ~  | Hallym University, Department of Computer Engineing | Student |
+|      Period       |                       Career                        |  Role   |
+|:-----------------:|:---------------------------------------------------:|:-------:|
+|     2023.02 ~     | Hallym University, Department of Computer Engineing | Student |
+| 2020.03 ~ 2023.02 |                Paichai High School                  | Student |
 
 ## ⛳️ Projects
 <details>
