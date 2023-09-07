@@ -55,10 +55,30 @@
 |      Period       |                       Career                        |  Role   |
 |:-----------------:|:---------------------------------------------------:|:-------:|
 |     2023.02 ~     | Hallym University, Department of Computer Engineing | Student |
-| 2020.03 ~ 2023.02 |                Paichai High School                  | Student |
+| 2020.03 ~ 2023.02 |                 Paichai High School                 | Student |
 
 <!-- Projects -->
 <h2 align="left">⛳️ Projects</h2>
+<details>
+    <summary>
+        <b>Studying Genetic Algorithm(2023~) - Solo</b>
+    </summary>
+    <h3 align="left">🏬 Retro-Gym</h3>
+    <ul>
+        <li>
+            <p align="left">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+                    alt="Python badge">
+            </p>
+        </li>
+        <li>
+            <p align="left">
+                <a href="https://github.com/minjunkim0205/GeneticAlgorithmMario">💻 Genetic Algorithm Mario
+                    Repository</a>
+            </p>
+        </li>
+    </ul>
+</details>
 <details>
     <summary>
         <b>Studying Algorithms, PS(2023~) - Solo</b>
@@ -67,10 +87,10 @@
     <ul>
         <li>
             <p align="left">
-                <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205"
-                     alt="Solved.ac profile mini info">
                 <img src="https://img.shields.io/badge/C++-00599C?flat-square&logo=c%2B%2B&logoColor=white"
                      alt="C++ badge">
+                <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205"
+                     alt="Solved.ac profile mini info">
             </p>
         </li>
         <li>
