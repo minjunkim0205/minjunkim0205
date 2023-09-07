@@ -8,11 +8,10 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Hi!%20I'm%20minjunkim0205&fontSize=70"
      alt="Main banner">
 <!-- Hello -->
-<h3 align="left">
-    👋 Hi, I'm minjunkim0205
-    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
-</h3>
+<h3 align="left">👋 Hi, I'm minjunkim0205</h3>
 <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
+    <br>
     Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
 </p>
 <!-- Algorithm PS -->
