@@ -7,6 +7,14 @@ Hi, I'm a student who is interested in programming and development from South Ko
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjunkim0205)](https://solved.ac/minjunkim0205) <img src="http://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark"/>
 
 ## ⚡ Skills
+<h3 align="center"><b>Tools</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+</p>
+
 <h3 align="center"><b>Languages</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -18,18 +26,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 <h3 align="center"><b>Frameworks</b></h3>
 <p align="center">
-Non
-</p>
-
-<h3 align="center"><b>Tools</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white">
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
 </p>
 
 ## 🚀 Career
@@ -42,9 +39,9 @@ Non
 <details>
 <summary> <b> Studying Algorithms, PS(2023~) - Solo </b> </summary>
 
-### 🏬 [Solved Ac](https://solved.ac/profile/minjunkim0205)
-- [![Solved.ac mini profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205)](https://solved.ac/profile/minjunkim0205)
-  <img src="https://img.shields.io/badge/C++-00599C?flat-square&logo=c%2B%2B&logoColor=white">
+### 🏬 Baekjoon
+- [![Solved.ac mini profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205)](https://solved.ac/profile/minjunkim0205) <img src="https://img.shields.io/badge/C++-00599C?flat-square&logo=c%2B%2B&logoColor=white">
+- [💻 Baekjoon Problem Solving Repository](https://github.com/minjunkim0205/BaekjoonProblemSolving)
 - 1일 1문제 이상 해결
 </details>
 
