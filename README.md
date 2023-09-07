@@ -18,14 +18,16 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 <h3 align="center"><b>Frameworks</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+Non
 </p>
 
 <h3 align="center"><b>Tools</b></h3>
 <p align="center">
+<img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white">
 </p>
