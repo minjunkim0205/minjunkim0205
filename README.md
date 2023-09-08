@@ -4,6 +4,10 @@
     <title>Overview</title>
 </head>
 <body>
+<!-- Profile views -->
+<p>
+    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
+</p>
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Hi!%20I'm%20minjunkim0205&fontSize=70"
      alt="Main banner">
@@ -11,8 +15,6 @@
 <h3 align="left">👋 Hi, I'm minjunkim0205</h3>
 <p align="left">
     Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
 </p>
 <!-- Algorithm PS -->
 <h2 align="left">🎮 Algorithm PS(With C++)</h2>
