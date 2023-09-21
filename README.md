@@ -53,7 +53,7 @@
 
 <!-- Career -->
 <h2 align="left">🚀 Career</h2>
-<table border="0">
+<table border="1">
     <tr>
         <th>Period</th>
         <th>Career</th>
@@ -82,7 +82,7 @@
         <li>
             <p align="left">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-                    alt="Python badge">
+                     alt="Python badge">
             </p>
         </li>
         <li>
@@ -128,8 +128,10 @@
 <!-- GitHub Stats -->
 <h2 align="left">🌏 GitHub Stats</h2>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=minjunkim0205&show_icons=true&theme=dark" alt="GitHub stats info">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark" alt="GitHub stats lang info">
+    <img src="https://github-readme-stats.vercel.app/api?username=minjunkim0205&show_icons=true&theme=dark"
+         alt="GitHub stats info">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark"
+         alt="GitHub stats lang info">
 </p>
 <!-- I -->
 <hr>
