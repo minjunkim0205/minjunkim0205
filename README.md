@@ -53,11 +53,23 @@
 
 <!-- Career -->
 <h2 align="left">🚀 Career</h2>
-
-|      Period       |                       Career                        |  Role   |
-|:-----------------:|:---------------------------------------------------:|:-------:|
-|     2023.02 ~     | Hallym University, Department of Computer Engineing | Student |
-| 2020.03 ~ 2023.02 |                 Paichai High School                 | Student |
+<table border="0">
+    <tr>
+        <th>Period</th>
+        <th>Career</th>
+        <th>Role</th>
+    </tr>
+    <tr>
+        <td>2023.02.~</td>
+        <td>Hallym University, Department of Computer Engineing</td>
+        <td>Student</td>
+    </tr>
+    <tr>
+        <td>2020.03 ~ 2023.02</td>
+        <td>Paichai High School</td>
+        <td>Student</td>
+    </tr>
+</table>
 
 <!-- Projects -->
 <h2 align="left">⛳️ Projects</h2>
