@@ -123,7 +123,7 @@
 <!-- Blog -->
 <h2 align="left">📖 Blog</h2>
 <p align="left">
-    Non
+    <a href="https://blog.naver.com/minjunkim0205">minjunkim0205 naver blog</a>
 </p>
 <!-- GitHub Stats -->
 <h2 align="left">🌏 GitHub Stats</h2>
