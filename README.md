@@ -136,7 +136,7 @@
 <!-- I -->
 <hr>
 <p align="left">
-    꾸준한 성장을 목표로 하는 minjunkim0205 입니다.
+    꾸준한 성장을 목표로 하는 MinjunKim 입니다.
 </p>
 </body>
 </html>
