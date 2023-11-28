@@ -2,15 +2,8 @@
 <head>
     <meta charset="utf-8">
     <title>Overview</title>
-    <style>
-        .skills{
-            text-align: left;
-            width: fit-content;
-        }
-    </style>
 </head>
 <body>
-
 <!-- Profile views -->
 <p>
     <img src="https://komarev.com/ghpvc/?username=minjunkim0205&color=dc143c" alt="Profile views badge">
@@ -35,7 +28,7 @@ alt="Main banner">
 
 <!-- Skills -->
 <h2 align="left">⚡ Skills</h2>
-<div class="skills">
+<div align="left" style="width: fit-content">
     <h3 align="center"><b>Tools</b></h3>
     <p align="center">
         <img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"
@@ -50,11 +43,14 @@ alt="Main banner">
     <h3 align="center"><b>Languages</b></h3>
     <p align="center">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C badge">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge">
-        <img src="https://img.shields.io/badge/openjdk-437291?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK badge">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+             alt="C++ badge">
+        <img src="https://img.shields.io/badge/openjdk-437291?style=for-the-badge&logo=openjdk&logoColor=white"
+             alt="OpenJDK badge">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"
              alt="JavaScript badge">
-        <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge">
+        <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+             alt="HTML badge">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
              alt="Python badge">
     </p>
@@ -129,7 +125,8 @@ alt="Main banner">
         </li>
         <li>
             <p align="left">
-                <del>1일 1문제 이상 해결</del> 잠시 중단
+                <del>1일 1문제 이상 해결</del>
+                잠시 중단
             </p>
         </li>
     </ul>
@@ -153,7 +150,7 @@ alt="Main banner">
 <!-- I -->
 <hr>
 <p align="left">
-    꾸준한 성장을 목표로 하는 MinjunKim 입니다.
+    꾸준한 성장을 목표로 하는 김민준 입니다.
 </p>
 </body>
 </html>
