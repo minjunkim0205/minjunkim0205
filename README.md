@@ -76,6 +76,11 @@ alt="Main banner">
         <th>Role</th>
     </tr>
     <tr>
+        <td>2023.11.19</td>
+        <td>Hallym Univ x Kangwon Univ, LIKELION Potatothon - 3rd Prize</td>
+        <td>Participant</td>
+    </tr>
+    <tr>
         <td>2023.02.~</td>
         <td>Hallym University, Department of Computer Engineing</td>
         <td>Student</td>
@@ -88,27 +93,7 @@ alt="Main banner">
 </table>
 
 <!-- Projects -->
-<h2 align="left">⛳️ Projects</h2>
-<details>
-    <summary>
-        <b>Studying Genetic Algorithm(2023~) - Solo</b>
-    </summary>
-    <h3 align="left">🏬 Retro-Gym</h3>
-    <ul>
-        <li>
-            <p align="left">
-                <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-                     alt="Python badge">
-            </p>
-        </li>
-        <li>
-            <p align="left">
-                <a href="https://github.com/minjunkim0205/GeneticAlgorithmMario">💻 Genetic Algorithm Mario
-                    Repository</a>
-            </p>
-        </li>
-    </ul>
-</details>
+<h2 align="left">⛳️ In Progress</h2>
 <details>
     <summary>
         <b>Studying Algorithms, PS(2023~) - Solo</b>
@@ -131,9 +116,9 @@ alt="Main banner">
         </li>
         <li>
             <p align="left">
-                <del>1일 1문제 이상 해결</del>
-                잠시 중단
+                1일 1문제 이상 해결<br>
             </p>
+            <img src="https://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark" alt="Solved.ac profile streak"/>
         </li>
     </ul>
 </details>
