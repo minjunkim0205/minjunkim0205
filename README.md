@@ -97,12 +97,12 @@ alt="Main banner">
         <tr>
             <td>2022.11.08</td>
             <td>Ministry of Science and ICT, 68th National Science Exhibition - Special Prize</td>
-            <td>Student</td>
+            <td>Participant</td>
         </tr>
         <tr>
             <td>2021.11.03</td>
             <td>Seoul Metropolitan Office of Education, 63rd Seoul Science Exhibition - 1st Prize</td>
-            <td>Student</td>
+            <td>Participant</td>
         </tr>
         <tr>
             <td>2021.09.12</td>
