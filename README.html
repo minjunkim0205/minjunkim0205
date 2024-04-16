@@ -18,7 +18,7 @@
     <!-- Skills -->
     <div style="width: 100vw; padding: 10px;">
         <h2>⚡ Skills</h2>
-        <div style="width: 100%; text-align: center;">
+        <div align="center" style="width: 100%;">
             <h3><b>Tools</b></h3>
             <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white"
                 alt="VSC badge">
@@ -39,7 +39,7 @@
                  alt="WebStorm badge">
             -->
         </div>
-        <div style="width: 100%; text-align: center;">
+        <div align="center" style="width: 100%;">
             <h3><b>Languages</b></h3>
             <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C badge">
             <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
@@ -57,7 +57,7 @@
             <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"
                 alt="Css3 badge">
         </div>
-        <div style="width: 100%; text-align: center;">
+        <div align="center" style="width: 100%;">
             <h3><b>Frameworks</b></h3>
             <img src="https://img.shields.io/badge/c make-064F8C?style=for-the-badge&logo=cmake&logoColor=white"
                 alt="CMake badge">
