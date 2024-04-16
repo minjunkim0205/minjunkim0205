@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Hi!%20I'm%20Minjun%20Kim&fontSize=70"
-alt="Main banner">
+     alt="Main banner">
 
 <!-- Hello -->
 <h3 align="left">👋 Hi, I'm Minjun Kim</h3>
@@ -31,6 +31,13 @@ alt="Main banner">
 <div align="left" style="width: fit-content">
     <h3 align="center"><b>Tools</b></h3>
     <p align="center">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white"
+             alt="VSC badge">
+        <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"
+             alt="Arduino badge">
+        <img src="https://img.shields.io/badge/Unity-E5E4E2?style=for-the-badge&logo=unity&logoColor=white"
+             alt="Unity badge">
+        <!--
         <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"
              alt="Rider badge">
         <img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"
@@ -41,6 +48,7 @@ alt="Main banner">
              alt="PyCharm badge">
         <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"
              alt="WebStorm badge">
+        -->
     </p>
     <h3 align="center"><b>Languages</b></h3>
     <p align="center">
