@@ -80,7 +80,7 @@
     <!-- Career -->
     <div style="width: 100vm; padding: 10px">
         <h2>🚀 Career</h2>
-        <table style="border: 1px solid black;">
+        <table border="1" style="width: 100%;">
             <thead>
                 <tr>
                     <th>Period</th>
