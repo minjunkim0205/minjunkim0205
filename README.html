@@ -139,7 +139,7 @@
         <div>
             <details>
                 <summary>
-                    <b>Studying Algorithms, PS(2024~) - Team</b>
+                    <b><del>Studying Algorithms, PS(2024~) - Team</del></b>
                 </summary>
                 <h3>📦 알고리즘 문제 해결 전략</h3>
                 <ul>
