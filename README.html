@@ -139,12 +139,22 @@
         <div>
             <details>
                 <summary>
-                    <b><del>Studying Algorithms, PS(2024~) - Team</del></b>
+                    <b>Baekjoon Problem solving(2023~) - Solo</b>
                 </summary>
-                <h3>📦 알고리즘 문제 해결 전략</h3>
+                <h3>🏬 Baekjoon</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/JongManBookPS">💻 JongManBookPS Repository</a>
+                        <a href="https://github.com/minjunkim0205/Algorithm-BaekjoonProblemSolving">💻 Algorithm-BaekjoonProblemSolving
+                        </a>
+                    </li>
+                    <li>
+                        <div>
+                            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205"
+                                 alt="Solved.ac profile mini info">
+                            <br>
+                            <img src="https://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark"
+                                 alt="Solved.ac profile streak" />
+                        </div>
                     </li>
                 </ul>
             </details>
@@ -152,26 +162,12 @@
         <div>
             <details>
                 <summary>
-                    <b>Baekjoon, PS(2023~) - Solo</b>
+                    <b><del>Studying Algorithms, PS(2024~2024) - Team</del></b>
                 </summary>
-                <h3>🏬 Baekjoon</h3>
+                <h3>📦 알고리즘 문제 해결 전략</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/BaekjoonProblemSolving">💻 Baekjoon Problem Solving Repository</a>
-                    </li>
-                    <li>
-                        <p>1일 1문제 이상 해결</p>
-                    </li>
-                    <li>
-                        <div>
-                            <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-                                 alt="C++ badge">
-                            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=minjunkim0205"
-                                 alt="Solved.ac profile mini info">
-                            <br>
-                            <img src="https://mazandi.herokuapp.com/api?handle=minjunkim0205&theme=dark"
-                                 alt="Solved.ac profile streak" />
-                        </div>
+                        <a href="https://github.com/minjunkim0205/JongManBookPS">💻 JongManBookPS Repository</a>
                     </li>
                 </ul>
             </details>
