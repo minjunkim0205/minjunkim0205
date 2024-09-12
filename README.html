@@ -139,7 +139,20 @@
         <div>
             <details>
                 <summary>
-                    <b>Baekjoon Problem solving(2023~) - Solo</b>
+                    <b>Research-GeneticAlgorithmMario(2024~) - Solo</b>
+                </summary>
+                <h3>🧬 유전 알고리즘 마리오</h3>
+                <ul>
+                    <li>
+                        <a href="https://github.com/minjunkim0205/Research-GeneticAlgorithmMario">💻 Research-GeneticAlgorithmMario</a>
+                    </li>
+                </ul>
+            </details>
+        </div>
+        <div>
+            <details>
+                <summary>
+                    <b><del>Baekjoon Problem solving(2023~) - Solo</del></b>
                 </summary>
                 <h3>🏬 Baekjoon</h3>
                 <ul>
