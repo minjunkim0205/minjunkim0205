@@ -29,18 +29,6 @@
                      alt="Arduino badge">
                 <img src="https://img.shields.io/badge/Unity-E5E4E2?style=for-the-badge&logo=unity&logoColor=white"
                      alt="Unity badge">
-                <!--
-                <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"
-                    alt="Rider badge">
-                <img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"
-                    alt="Clion badge">
-                <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"
-                    alt="IntelliJ badge">
-                <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"
-                    alt="PyCharm badge">
-                <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"
-                    alt="WebStorm badge">
-                -->
             </div>
         </div>
         <div align="center" style="width: 100%;">
