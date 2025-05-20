@@ -105,19 +105,19 @@
                     <tr>
                         <td>2025.01~ing</td>
                         <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong
-                                Castle</a> - Working</td>
+                                Castle</a> - <b>Working</b></td>
                         <td>Part-time Aassistant</td>
                     </tr>
                     <tr>
                         <td>2024.04~2024.09</td>
                         <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
-                                Gangdong</a> - Working</td>
+                                Gangdong</a> - <b>Working</b></td>
                         <td>Part-time instructor</td>
                     </tr>
                     <tr>
                         <td>2023.11.19</td>
                         <td><a href="https://event-us.kr/potatothon/event/72713" target="_blank">Hallym Univ x Kangwon
-                                Univ, LIKELION Potatothon</a> - 3rd Prize</td>
+                                Univ, LIKELION Potatothon</a> - <b>3rd Prize</b></td>
                         <td>Participant</td>
                     </tr>
                     <tr>
@@ -129,19 +129,19 @@
                         <td>2022.11.08</td>
                         <td><a href="https://www.science.go.kr/mps/1079/bbs/423/moveBbsNttDetail.do?nttSn=29804"
                                 target="_blank">Ministry of Science and ICT, 68th National Science Exhibition</a> -
-                            Special Prize</td>
+                            <b>Special Prize</b></td>
                         <td>Participant</td>
                     </tr>
                     <tr>
                         <td>2021.11.03</td>
                         <td><a href="https://ssei.sen.go.kr/fus/MI000000000000000074/board/BO00000126/ctgynone/view0010v.do?board_id=BO00000126&pageIndex=1&board_seq=6916"
                                 target="_blank">Metropolitan Office of Education, 63rd Seoul Science Exhibition</a> -
-                            1st Prize</td>
+                            <b>1st Prize</b></td>
                         <td>Participant</td>
                     </tr>
                     <tr>
                         <td>2021.09.12</td>
-                        <td>Paichai, Science Exhibition - 1st Prize</td>
+                        <td>Paichai, Science Exhibition - <b>1st Prize</b></td>
                         <td>Student</td>
                     </tr>
                     <tr>
