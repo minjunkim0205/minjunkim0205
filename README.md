@@ -94,8 +94,13 @@
                     <td>Part-time instructor</td>
                 </tr>
                 <tr>
+                    <td>2024.04~2024.09</td>
+                    <td><a href="https://www.learnsteam.co.kr/">Learnsteam Education Center Gangdong</a> - Working</td>
+                    <td>Part-time instructor</td>
+                </tr>
+                <tr>
                     <td>2023.11.19</td>
-                    <td>Hallym Univ x Kangwon Univ, LIKELION Potatothon - 3rd Prize</td>
+                    <td><a href="https://event-us.kr/potatothon/event/72713">Hallym Univ x Kangwon Univ, LIKELION Potatothon</a> - 3rd Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
@@ -105,12 +110,12 @@
                 </tr>
                 <tr>
                     <td>2022.11.08</td>
-                    <td>Ministry of Science and ICT, 68th National Science Exhibition - Special Prize</td>
+                    <td><a href="https://www.science.go.kr/mps/1079/bbs/423/moveBbsNttDetail.do?nttSn=29804">Ministry of Science and ICT, 68th National Science Exhibition</a> - Special Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
                     <td>2021.11.03</td>
-                    <td>Seoul Metropolitan Office of Education, 63rd Seoul Science Exhibition - 1st Prize</td>
+                    <td><a href="https://ssei.sen.go.kr/fus/MI000000000000000074/board/BO00000126/ctgynone/view0010v.do?board_id=BO00000126&pageIndex=1&board_seq=6916">Metropolitan Office of Education, 63rd Seoul Science Exhibition</a> - 1st Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
