@@ -89,6 +89,11 @@
             </thead>
             <tbody>
                 <tr>
+                    <td>2024.04.03~2024.09.05</td>
+                    <td><a href="https://www.learnsteam.co.kr/"></a>Learnsteam Education Center Gangdong</a> - Working</td>
+                    <td>Part-time instructor</td>
+                </tr>
+                <tr>
                     <td>2023.11.19</td>
                     <td>Hallym Univ x Kangwon Univ, LIKELION Potatothon - 3rd Prize</td>
                     <td>Participant</td>
