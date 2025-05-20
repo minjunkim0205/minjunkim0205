@@ -20,10 +20,12 @@
     <!-- Connect -->
     <div>
         <h2>Connect with me</h2>
-        <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minjunkim0205"
-                    alt="Linkedin flat">
-        <img src="http://img.shields.io/badge/-KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white&link=https://open.kakao.com/o/gKMJrSqc"
-                    alt="Linkedin flat">
+        <a href="https://www.linkedin.com/in/minjunkim0205">
+            <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" alt="Linkedin flat">
+        </a>
+        <a href="https://open.kakao.com/o/gKMJrSqc">
+            <img src="http://img.shields.io/badge/-KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white" alt="KakoTalk flat">
+        </a>
     </div>
     <!-- Skills -->
     <div style="width: 100vw; padding: 10px;">
