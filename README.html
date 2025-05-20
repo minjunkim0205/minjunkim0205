@@ -17,6 +17,11 @@
         <h3>👋 Hi, I'm Minjun Kim</h3>
         <p>Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.</p>
     </div>
+    <!-- I -->
+        <div style="width: 100vw; padding: 10px">
+            <hr>
+            <p>꾸준한 성장을 목표로 하는 김민준 입니다.</p>
+        </div>
     <!-- Connect -->
     <div>
         <h2>Connect with me</h2>
@@ -233,11 +238,6 @@
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim0205&layout=compact&theme=dark"
                     alt="GitHub stats lang info">
             </div>
-        </div>
-        <!-- I -->
-        <div style="width: 100vw; padding: 10px">
-            <hr>
-            <p>꾸준한 성장을 목표로 하는 김민준 입니다.</p>
         </div>
 </body>
 
