@@ -89,9 +89,9 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>2024.04~2024.09</td>
-                    <td><a href="https://www.learnsteam.co.kr/">Learnsteam Education Center Gangdong</a> - Working</td>
-                    <td>Part-time instructor</td>
+                    <td>2025.01~ing</td>
+                    <td><a href="https://martmonster.com/seoul/12494">GS THE FRESH Gangdong Castle</a> - Working</td>
+                    <td>Part-time Aassistant</td>
                 </tr>
                 <tr>
                     <td>2024.04~2024.09</td>
@@ -104,7 +104,7 @@
                     <td>Participant</td>
                 </tr>
                 <tr>
-                    <td>2023.02.~</td>
+                    <td>2023.02.~ing</td>
                     <td>Hallym University, Department of Computer Engineing</td>
                     <td>Student</td>
                 </tr>
