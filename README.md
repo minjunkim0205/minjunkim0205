@@ -127,7 +127,20 @@
         <div>
             <details>
                 <summary>
-                    <b>Research-GeneticAlgorithmMario(2024~) - Solo</b>
+                    <b>Pado-KoreanHistory(2025~) - Team(PADO)</b>
+                </summary>
+                <h3>💻 파도-한국 역사 체험 게임</h3>
+                <ul>
+                    <li>
+                        <a href="https://github.com/minjunkim0205/Pado-KoreanHistory">💻 Pado-KoreanHistory</a>
+                    </li>
+                </ul>
+            </details>
+        </div>
+        <div>
+            <details>
+                <summary>
+                    <b><del>Research-GeneticAlgorithmMario(2024~) - Solo</del></b>
                 </summary>
                 <h3>🧬 유전 알고리즘 마리오</h3>
                 <ul>
