@@ -90,7 +90,7 @@
             <tbody>
                 <tr>
                     <td>2024.04~2024.09</td>
-                    <td><a href="https://www.learnsteam.co.kr/"></a>Learnsteam Education Center Gangdong</a> - Working</td>
+                    <td><a href="https://www.learnsteam.co.kr/">Learnsteam Education Center Gangdong</a> - Working</td>
                     <td>Part-time instructor</td>
                 </tr>
                 <tr>
