@@ -90,17 +90,17 @@
             <tbody>
                 <tr>
                     <td>2025.01~ing</td>
-                    <td><a href="https://martmonster.com/seoul/12494">GS THE FRESH Gangdong Castle</a> - Working</td>
+                    <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong Castle</a> - Working</td>
                     <td>Part-time Aassistant</td>
                 </tr>
                 <tr>
                     <td>2024.04~2024.09</td>
-                    <td><a href="https://www.learnsteam.co.kr/">Learnsteam Education Center Gangdong</a> - Working</td>
+                    <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center Gangdong</a> - Working</td>
                     <td>Part-time instructor</td>
                 </tr>
                 <tr>
                     <td>2023.11.19</td>
-                    <td><a href="https://event-us.kr/potatothon/event/72713">Hallym Univ x Kangwon Univ, LIKELION Potatothon</a> - 3rd Prize</td>
+                    <td><a href="https://event-us.kr/potatothon/event/72713" target="_blank">Hallym Univ x Kangwon Univ, LIKELION Potatothon</a> - 3rd Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
@@ -110,12 +110,12 @@
                 </tr>
                 <tr>
                     <td>2022.11.08</td>
-                    <td><a href="https://www.science.go.kr/mps/1079/bbs/423/moveBbsNttDetail.do?nttSn=29804">Ministry of Science and ICT, 68th National Science Exhibition</a> - Special Prize</td>
+                    <td><a href="https://www.science.go.kr/mps/1079/bbs/423/moveBbsNttDetail.do?nttSn=29804" target="_blank">Ministry of Science and ICT, 68th National Science Exhibition</a> - Special Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
                     <td>2021.11.03</td>
-                    <td><a href="https://ssei.sen.go.kr/fus/MI000000000000000074/board/BO00000126/ctgynone/view0010v.do?board_id=BO00000126&pageIndex=1&board_seq=6916">Metropolitan Office of Education, 63rd Seoul Science Exhibition</a> - 1st Prize</td>
+                    <td><a href="https://ssei.sen.go.kr/fus/MI000000000000000074/board/BO00000126/ctgynone/view0010v.do?board_id=BO00000126&pageIndex=1&board_seq=6916" target="_blank">Metropolitan Office of Education, 63rd Seoul Science Exhibition</a> - 1st Prize</td>
                     <td>Participant</td>
                 </tr>
                 <tr>
@@ -142,7 +142,7 @@
                 <h3>💻 파도-한국 역사 체험 게임</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/Pado-KoreanHistory">💻 Pado-KoreanHistory</a>
+                        <a href="https://github.com/minjunkim0205/Pado-KoreanHistory" target="_blank">💻 Pado-KoreanHistory</a>
                     </li>
                 </ul>
             </details>
@@ -155,7 +155,7 @@
                 <h3>🧬 유전 알고리즘 마리오</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/Research-GeneticAlgorithmMario">💻 Research-GeneticAlgorithmMario</a>
+                        <a href="https://github.com/minjunkim0205/Research-GeneticAlgorithmMario" target="_blank">💻 Research-GeneticAlgorithmMario</a>
                     </li>
                 </ul>
             </details>
@@ -168,7 +168,7 @@
                 <h3>🏬 Baekjoon</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/Algorithm-BaekjoonProblemSolving">💻 Algorithm-BaekjoonProblemSolving
+                        <a href="https://github.com/minjunkim0205/Algorithm-BaekjoonProblemSolving" target="_blank">💻 Algorithm-BaekjoonProblemSolving
                         </a>
                     </li>
                     <li>
@@ -191,7 +191,7 @@
                 <h3>📦 알고리즘 문제 해결 전략</h3>
                 <ul>
                     <li>
-                        <a href="https://github.com/minjunkim0205/JongManBookPS">💻 JongManBookPS Repository</a>
+                        <a href="https://github.com/minjunkim0205/JongManBookPS" target="_blank">💻 JongManBookPS Repository</a>
                     </li>
                 </ul>
             </details>
@@ -200,7 +200,7 @@
     <!-- Blog -->
     <div style="width: 100vw; padding: 10px">
         <h2>📖 Blog</h2>
-        <a href="https://blog.naver.com/minjunkim0205">minjunkim0205 naver blog</a>
+        <a href="https://blog.naver.com/minjunkim0205" target="_blank">minjunkim0205 naver blog</a>
     </div>
     <!-- GitHub Stats -->
     <div style="width: 100vw; padding: 10px">
