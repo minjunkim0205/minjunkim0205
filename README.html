@@ -103,16 +103,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>2025.01~ing</td>
-                        <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong
-                                Castle</a> - <b>Working</b></td>
-                        <td>Part-time Aassistant</td>
-                    </tr>
-                    <tr>
-                        <td>2024.04~2024.09</td>
+                        <td>2024.04~ing</td>
                         <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
                                 Gangdong</a> - <b>Working</b></td>
                         <td>Part-time instructor</td>
+                    </tr>
+                    <tr>
+                        <td>2025.01~2025.06</td>
+                        <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong
+                                Castle</a> - <b>Working</b></td>
+                        <td>Part-time Aassistant</td>
                     </tr>
                     <tr>
                         <td>2023.11.19</td>
