@@ -102,12 +102,14 @@
                     </tr>
                 </thead>
                 <tbody>
+                    <!--
                     <tr>
-                        <td>2024.04~ing</td>
+                        <td>2026.01~ing</td>
                         <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
                                 Gangdong</a> - <b>Working</b></td>
                         <td>Instructor</td>
                     </tr>
+                    -->
                     <tr>
                         <td>2025.01~2025.06</td>
                         <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong
@@ -115,7 +117,7 @@
                         <td>Part-time Aassistant</td>
                     </tr>
                     <tr>
-                        <td>2024.04~2024.12</td>
+                        <td>2024.04~ing</td>
                         <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
                                 Gangdong</a> - <b>Working</b></td>
                         <td>Part-time instructor</td>
