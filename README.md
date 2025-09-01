@@ -166,7 +166,7 @@
             <div>
                 <details>
                     <summary>
-                        <b>Pado-KoreanHistory(2025~) - Team(PADO)</b>
+                        <b><del>Pado-KoreanHistory(2025~) - Team(PADO)</del></b>
                     </summary>
                     <h3>💻 파도-한국 역사 체험 게임</h3>
                     <ul>
