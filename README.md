@@ -21,6 +21,9 @@
         <div style="width: 100vw; padding: 10px">
             <hr>
             <p>꾸준한 성장을 목표로 하는 김민준 입니다.</p>
+            <a href="./Portfolio/Portfolio.md">
+                <h1 style="color: red;">*포트폴리오 문서 바로 가기*</h1>
+            </a>    
         </div>
     <!-- Connect -->
     <div>
