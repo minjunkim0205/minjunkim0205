@@ -18,13 +18,13 @@
         <p>Hi, I'm a student who is interested in programming and development from South Korea, Hallym University.</p>
     </div>
     <!-- I -->
-        <div style="width: 100vw; padding: 10px">
-            <hr>
-            <p>꾸준한 성장을 목표로 하는 김민준 입니다.</p>
-            <a href="./Portfolio/Portfolio.md">
-                <h1 style="color: red;">*포트폴리오 문서 바로 가기*</h1>
-            </a>    
-        </div>
+    <div style="width: 100vw; padding: 10px">
+        <hr>
+        <p>꾸준한 성장을 목표로 하는 김민준 입니다.</p>
+        <a href="./Portfolio/Portfolio.md">
+            <h1 style="color: red;">*포트폴리오 문서 바로 가기*</h1>
+        </a>
+    </div>
     <!-- Connect -->
     <div>
         <h2>Connect with me</h2>
@@ -32,7 +32,8 @@
             <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" alt="Linkedin flat">
         </a>
         <a href="https://open.kakao.com/o/gKMJrSqc">
-            <img src="http://img.shields.io/badge/-KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white" alt="KakoTalk flat">
+            <img src="http://img.shields.io/badge/-KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white"
+                alt="KakoTalk flat">
         </a>
     </div>
     <!-- Skills -->
@@ -105,60 +106,63 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <!--
                     <tr>
-                        <td>2026.01~ing</td>
-                        <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
-                                Gangdong</a> - <b>Working</b></td>
-                        <td>Instructor</td>
+                        <td>2025.11.12</td>
+                        <td>
+                            <a href="https://www.hallym.ac.kr/bbs/chonghak/697/376763/artclView.do" target="_blank">
+                                한림대학교, Station C 스타트업 IR 챌린지
+                            </a> - <b>우수상</b>
+                        </td>
+                        <td>참가자</td>
                     </tr>
-                    -->
                     <tr>
                         <td>2025.01~2025.06</td>
-                        <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH Gangdong
-                                Castle</a> - <b>Working</b></td>
-                        <td>Part-time Aassistant</td>
+                        <td><a href="https://martmonster.com/seoul/12494" target="_blank">GS THE FRESH 강동캐슬점</a> -
+                            <b>근무</b></td>
+                        <td>파트 타임 매니저</td>
                     </tr>
                     <tr>
                         <td>2024.04~ing</td>
-                        <td><a href="https://www.learnsteam.co.kr/" target="_blank">Learnsteam Education Center
-                                Gangdong</a> - <b>Working</b></td>
-                        <td>Part-time instructor</td>
+                        <td><a href="https://www.learnsteam.co.kr/" target="_blank">런스팀 에듀 센터 코딩학원 강동점</a> - <b>근무</b>
+                        </td>
+                        <td>파트 타임 강사</td>
                     </tr>
                     <tr>
                         <td>2023.11.19</td>
-                        <td><a href="https://event-us.kr/potatothon/event/72713" target="_blank">Hallym Univ x Kangwon
-                                Univ, LIKELION Potatothon</a> - <b>3rd Prize</b></td>
-                        <td>Participant</td>
+                        <td><a href="https://event-us.kr/potatothon/event/72713" target="_blank">한림대학교 x 강원대학교, 멋쟁이 사자처럼
+                                감자톤</a> - <b>장려상</b></td>
+                        <td>참가자</td>
                     </tr>
                     <tr>
                         <td>2023.02.~ing</td>
-                        <td>Hallym University, Department of Computer Engineing</td>
-                        <td>Student</td>
+                        <td>한림대학교, 소프트웨어 융합(컨텐츠it)</td>
+                        <td>재학생</td>
                     </tr>
                     <tr>
                         <td>2022.11.08</td>
                         <td><a href="https://www.science.go.kr/mps/1079/bbs/423/moveBbsNttDetail.do?nttSn=29804"
-                                target="_blank">Ministry of Science and ICT, 68th National Science Exhibition</a> -
-                            <b>Special Prize</b></td>
-                        <td>Participant</td>
+                                target="_blank">과학기술정보통신부, 제68회 전국과학전람회</a> -
+                            <b>특상</b>
+                        </td>
+                        <td>참가자</td>
                     </tr>
                     <tr>
                         <td>2021.11.03</td>
                         <td><a href="https://ssei.sen.go.kr/fus/MI000000000000000074/board/BO00000126/ctgynone/view0010v.do?board_id=BO00000126&pageIndex=1&board_seq=6916"
-                                target="_blank">Metropolitan Office of Education, 63rd Seoul Science Exhibition</a> -
-                            <b>1st Prize</b></td>
-                        <td>Participant</td>
+                                target="_blank">서울시교육청, 제63회 서울과학박람회</a> -
+                            <b>특상</b>
+                        </td>
+                        <td>참가자</td>
                     </tr>
                     <tr>
                         <td>2021.09.12</td>
-                        <td>Paichai, Science Exhibition - <b>1st Prize</b></td>
-                        <td>Student</td>
+                        <td>배재고등학교, 과학 경진대회 - <b>최우수상</b></td>
+                        <td>참가자</td>
                     </tr>
                     <tr>
                         <td>2020.03 ~ 2023.02</td>
-                        <td>Paichai High School</td>
-                        <td>Student</td>
+                        <td>배재고등학교</td>
+                        <td>재학생</td>
                     </tr>
                 </tbody>
             </table>
