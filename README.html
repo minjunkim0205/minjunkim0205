@@ -131,7 +131,7 @@
                         <td>파트 타임 매니저</td>
                     </tr>
                     <tr>
-                        <td>2024.04~ing</td>
+                        <td>2024.04~2026.03</td>
                         <td><a href="https://www.learnsteam.co.kr/" target="_blank">런스팀 에듀 센터 코딩학원 강동점</a> - <b>근무</b>
                         </td>
                         <td>파트 타임 강사</td>
