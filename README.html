@@ -107,6 +107,15 @@
                 </thead>
                 <tbody>
                     <tr>
+                        <td>2026.03.26~2027.12.26</td>
+                        <td>
+                            <a href="https://www.korailretail.com/content.do?menuNo=1070500" target="_blank">
+                                한국철도공사수도권동부본부
+                            </a> - <b>복부</b>
+                        </td>
+                        <td>사회복무요원</td>
+                    </tr>
+                    <tr>
                         <td>2025.11.12</td>
                         <td>
                             <a href="https://www.hallym.ac.kr/bbs/chonghak/697/376763/artclView.do" target="_blank">
