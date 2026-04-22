@@ -107,11 +107,11 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>2026.03.26~2027.12.26</td>
+                        <td>2026.03.26~2027.12.25</td>
                         <td>
                             <a href="https://www.korailretail.com/content.do?menuNo=1070500" target="_blank">
                                 한국철도공사수도권동부본부
-                            </a> - <b>복부</b>
+                            </a> - <b>군대체복무</b>
                         </td>
                         <td>사회복무요원</td>
                     </tr>
