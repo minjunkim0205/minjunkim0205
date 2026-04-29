@@ -10,15 +10,17 @@
 <!-- Banner -->
 <div style="width: 100vw;">
     <img style="width: 100%;"
-        src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=260&section=header&text=👋%20Hi,%20I'm%20Minjun%20Kim&fontSize=60" />
+        src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=260&section=header&text=Minjun%20Kim&fontSize=60" />
 </div>
 
 <!-- Intro -->
 <div align="center">
 
+<h1>👋 Hi, I'm Minjun Kim</h1>
+
 <p>
-꾸준한 성장을 목표로 하는 개발자 김민준 입니다<br>
-Embedded · Game · Web 개발에 관심 있습니다
+꾸준한 성장을 목표로 하는 개발자 <br>
+Algorithm · Game · Web 개발에 관심 있습니다
 </p>
 
 <p>
@@ -215,7 +217,7 @@ Embedded · Game · Web 개발에 관심 있습니다
 <hr>
 
 <div align="center">
-꾸준한 성장을 목표로 하는 김민준 입니다 🚀
+꾸준히 성장하는 개발자 🚀
 </div>
 
 </body>
